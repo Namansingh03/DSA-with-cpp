@@ -1,0 +1,5 @@
+//! ignore file
+coding ninja/Cooking_ninja.cpp
+
+//! ignore compiled files
+*.exe
