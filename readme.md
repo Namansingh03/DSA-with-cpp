@@ -12,6 +12,9 @@
 | 8    | [Book Allocation](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/books_allocation.cpp)| _O(logn)_ | _O(logn)_ |
 | 8    | [Sort 0 1 2](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/sort-0-1-2.cpp)| _O(logn)_ | _O(logn)_ |
 | 8    | [Pair Sum](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/pair-sum.cpp)| _O(logn)_ | _O(logn)_ |
+| 9    | [bubble sort](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/bubble_sort.cpp)| _O(logn)_ | _O(logn)_ |
+| 10    | [selection sort](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/selection_sort.cpp)| _O(logn)_ | _O(logn)_ |
+| 11    | [insertion sort sort](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/insertion_sort.cpp)| _O(logn)_ | _O(logn)_ |
 
 
 
