@@ -39,5 +39,5 @@
 | 15    | [1207](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1207.cpp)       |  Unique Number Of Occurrences |
 | 16    | [1281](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1281.cpp)       | Subtract The Product Ans Sum Of Digit Of an Integer |
 | 17    | [1752](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1752.cpp)       | Check if Sorted and Rotated array |
-| 13    | [1901](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1901.cpp)       | Check if Sorted and Rotated array1901
+| 18    | [1901](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1901.cpp)       | Check if Sorted and Rotated array1901
 
