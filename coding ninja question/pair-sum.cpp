@@ -1,28 +1,31 @@
-//? pair sum
-//! You are given an integer array 'ARR' of size 'N' and an integer 'S'. Your task is to return the list of all pairs of elements such that each sum of elements of each pair equals 'S'.
-
 #include <iostream>
 #include<vector>
-
+#include<algorithm>
 using namespace std;
 
-bool sumTwo(vector<int> arr, int size, int k)
-{   
-    vector<int> ans;
-   for(int i=0; i < arr.size();i++)
-    {
-       for(int j=i+1; j<arr.size(); j++)
-       {
-          if(arr[i]+arr[j]==k)
-          {
-             vector<int> temp;
-             temp.push_back(min(arr[i],arr[j]));
-             temp.push_back(max(arr[i],arr[j]));
-             ans.push_back(temp);
-          }
-       }
+vector<vector<int>> pairSum(vector<int> arr, int s){
+   sort(arr.begin(),arr.end());
+  
+   vector<vector<int>>  result;
+
+    int left = 0;
+    int right = arr.size() - 1;
+
+    while (left < right) {
+        int sum = arr[left] + arr[right];
+        if (sum == s) {
+            result.push_back({arr[left],arr[right]});
+            left++;
+            right--;
+        } else if (sum < s) {
+            left++;
+        } else {
+            right--;
+        }
     }
-    sort(ans.begin(),ans.end());
+
+    return result;
+
 }
 
 int main()
@@ -30,13 +33,26 @@ int main()
     vector<int>arr;
  
     arr.push_back(1);
-    arr.push_back(2);
+    arr.push_back(-3);
     arr.push_back(3);
-    arr.push_back(4);
-    arr.push_back(5);
-    arr.push_back(6);
+    arr.push_back(3);
+    arr.push_back(-3);
+    arr.push_back(2);
+    arr.push_back(-1);
 
-    cout << sumTwo(arr , 6 , 6) << endl;
+    vector<vector<int>> result = pairSum(arr,0);
+
+    for (const auto &triplet : result)
+    {
+        cout << "[";
+        for (int num : triplet)
+        {
+            cout << num << ", ";
+        }
+        cout << "]" << endl;
+    }
+
+
       
     return 0;
 }
