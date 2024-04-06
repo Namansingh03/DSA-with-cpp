@@ -6,39 +6,26 @@ using namespace std;
 vector<vector<int>> pairSum(vector<int> arr, int s){
    sort(arr.begin(),arr.end());
   
-   vector<vector<int>>  result;
+    vector<vector<int>> pair;
 
-    int left = 0;
-    int right = arr.size() - 1;
+    for(int i=0; i < arr.size();){
+        int num = arr[i];
+        int comp = s - arr[i];
 
-    while (left < right) {
-        int sum = arr[left] + arr[right];
-        if (sum == s) {
-            result.push_back({arr[left],arr[right]});
-            left++;
-            right--;
-        } else if (sum < s) {
-            left++;
-        } else {
-            right--;
+        for(int j=i+1; j<arr.size(); j++){
+            if(arr[j]==comp){
+                pair.push_back({min(num,comp),max(num,comp)});
+            }
         }
+                i++;
     }
-
-    return result;
+    return pair;
 
 }
 
 int main()
 { 
-    vector<int>arr;
- 
-    arr.push_back(1);
-    arr.push_back(-3);
-    arr.push_back(3);
-    arr.push_back(3);
-    arr.push_back(-3);
-    arr.push_back(2);
-    arr.push_back(-1);
+    vector<int>arr = {2,-3,3,3,2};
 
     vector<vector<int>> result = pairSum(arr,0);
 
@@ -52,7 +39,5 @@ int main()
         cout << "]" << endl;
     }
 
-
-      
     return 0;
 }

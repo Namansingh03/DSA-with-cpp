@@ -3,6 +3,3 @@
 //! ignore compiled files
 *.exe
 
-//! unattended questions
-3Sum.cpp
-Cooking_ninja.cpp
