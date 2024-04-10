@@ -44,7 +44,7 @@
 | 15    | [231](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-231.cpp)       | Power Of Two | O(log n) | O(1)|
 | 16    | [240](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-240.cpp)       | Search In 2D Matrix 2 | O(m+n) | O(1) |
 | 17    | [283](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-283.cpp)       | Move Zeros | O(n) | O(1)|
-| 18    | [344](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-344.cpp)       | Find All Duplicates | O(n) | O(1)
+| 18    | [344](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-344.cpp)       | Reverse A String | O(n) | O(1)
 | 19    | [442](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-442.cpp)       | Find all duplicates |O(n) | O(1)|
 | 20   | [443](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-443.cpp)       | String Compression | O(n) | O(1) |
 | 21   | [567](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-567.cpp)       | Permutation in a String | O(n) | O(1)|
@@ -55,5 +55,5 @@
 | 26    | [1207](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1207.cpp)       |  Unique Number Of Occurrences | O(n + m log m) | O(m) |
 | 27    | [1281](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1281.cpp)       | Subtract The Product And Sum Of Digit an Integer | O(log10(num)) | O(1)|
 | 28    | [1752](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1752.cpp)       | Check if Sorted and Rotated array | O(n) | O(1)
-| 29    | [1901](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1901.cpp)       | Check if Sorted and Rotated array| O(n*m) | O(1)|
+| 29    | [1901](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1901.cpp)       | Remove All Occurrences of a Substring| O(n*m) | O(1)|
 
