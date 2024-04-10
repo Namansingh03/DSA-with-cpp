@@ -1,8 +1,8 @@
 ## Coding Ninja
 
 
-| S.No | Problem |
-| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| S.No | Problem | Time Complexity | Space Complexity |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------- |
 | 1 | [Duplicate in array](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Duplicate_in_array.cpp) |
 | 2 | [Find Unique](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Find_Unique.cpp) |
 | 3 | [Find Last Position Element](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/First-Last-Position-Element.cpp) |
