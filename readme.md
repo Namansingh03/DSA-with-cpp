@@ -3,7 +3,7 @@
 
 | S.No | Problem | Time Complexity | Space Complexity |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------- |
-<<<<<<< HEAD
+
 | 1 | [Duplicate in array](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Duplicate_in_array.cpp) | O(n) | O(1) |
 | 2 | [Find Unique](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Find_Unique.cpp) | O(n) | O(1) |
 | 3 | [Find Last Element Position](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/First-Last-Position-Element.cpp) | 
@@ -20,26 +20,6 @@
 | 14 | [selection sort](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/selection_sort.cpp) | O(n^2) | O(1) |
 | 15 | [Print Like a Wave](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Print_like_wave.cpp) | O(mCols * nRows)| O(mCols * nRows)|
 | 16 | [Check if Palindrome](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/check_if_palindrome.cpp) | O(n) | O(1)|
-
-=======
-| 1 | [Duplicate in array](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Duplicate_in_array.cpp) |
-| 2 | [Find Unique](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Find_Unique.cpp) |
-| 3 | [Find Last Position Element](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/First-Last-Position-Element.cpp) |
-| 4 | [Painter's Problem](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Painter's_problem.cpp) |
-| 5 | [Search In Rotated Array](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Search-In-Rotated-Sorted-Array.cpp) |
-| 6 | [Square Root Of Number](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Search-In-Rotated-Sorted-Array.cpp) |
-| 7 | [Aggressive Cow](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/aggressive_cows.cpp) |
-| 8 | [Book Allocation](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/books_allocation.cpp) |
-| 9 | [Sort 0 1 2](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/sort-0-1-2.cpp) |
-| 10 | [Pair Sum](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/pair-sum.cpp) |
-| 11 | [Triplet sum](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/3Sum.cpp) |
-| 12 | [bubble sort](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/bubble_sort.cpp) |
-| 13 | [insertion sort](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/insertion_sort.cpp) |
-| 14 | [selection sort](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/selection_sort.cpp) |
-| 15 | [Print Like a Wave](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Print_like_wave.cpp) |
-| 16 | [Check if Palindrome](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/check_if_palindrome.cpp) |
-| 17 | [Cooking ninja](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Cooking_ninja.cpp) |
->>>>>>> ae996bcb162d7cc046cad5e6816cfb289f7d9379
 
 
 ## Leet Code
