@@ -3,7 +3,6 @@
 
 | S.No | Problem | Time Complexity | Space Complexity |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------- |
-
 | 1 | [Duplicate in array](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Duplicate_in_array.cpp) | O(n) | O(1) |
 | 2 | [Find Unique](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Find_Unique.cpp) | O(n) | O(1) |
 | 3 | [Find Last Element Position](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/First-Last-Position-Element.cpp) | 
