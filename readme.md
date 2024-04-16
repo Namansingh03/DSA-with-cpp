@@ -20,7 +20,6 @@
 | 15 | [Print Like a Wave](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Print_like_wave.cpp) | O(mCols * nRows)| O(mCols * nRows)|
 | 16 | [Check if Palindrome](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/check_if_palindrome.cpp) | O(n) | O(1)|
 
-
 ## Leet Code
 
 | S.No | Problem                                                                                              | Name of Problem | Time Complexity | Space Complexity| 
@@ -46,13 +45,14 @@
 | 18    | [344](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-344.cpp)       | Reverse A String | O(n) | O(1)
 | 19    | [442](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-442.cpp)       | Find all duplicates |O(n) | O(1)|
 | 20   | [443](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-443.cpp)       | String Compression | O(n) | O(1) |
-| 21   | [567](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-567.cpp)       | Permutation in a String | O(n) | O(1)|
-| 22   | [724](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-724.cpp)       | Find Pivot Index | O(n) | O(1)|
-| 23   | [852](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-852.cpp)       | Peak index in a mountain | O(log n) | O(1)|
-| 24    | [1009](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1009.cpp)       | Compliment Of Base 10 | O(logN) | O(logN)|
-| 25    | [1047](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1047.cpp)       | Remove all adjacent Duplicate | O(n) | O(n)|
-| 26    | [1207](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1207.cpp)       |  Unique Number Of Occurrences | O(n + m log m) | O(m) |
-| 27    | [1281](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1281.cpp)       | Subtract The Product And Sum Of Digit an Integer | O(log10(num)) | O(1)|
-| 28    | [1752](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1752.cpp)       | Check if Sorted and Rotated array | O(n) | O(1)
-| 29    | [1901](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1901.cpp)       | Remove All Occurrences of a Substring| O(n*m) | O(1)|
+| 21   | [509](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-509.cpp)       | Fibonacci Number | O(1.618^n) | O(n) |
+| 22   | [567](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-567.cpp)       | Permutation in a String | O(n) | O(1)|
+| 23   | [724](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-724.cpp)       | Find Pivot Index | O(n) | O(1)|
+| 24   | [852](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-852.cpp)       | Peak index in a mountain | O(log n) | O(1)|
+| 25    | [1009](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1009.cpp)       | Compliment Of Base 10 | O(logN) | O(logN)|
+| 26    | [1047](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1047.cpp)       | Remove all adjacent Duplicate | O(n) | O(n)|
+| 27    | [1207](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1207.cpp)       |  Unique Number Of Occurrences | O(n + m log m) | O(m) |
+| 28    | [1281](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1281.cpp)       | Subtract The Product And Sum Of Digit an Integer | O(log10(num)) | O(1)|
+| 29    | [1752](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1752.cpp)       | Check if Sorted and Rotated array | O(n) | O(1)
+| 30    | [1901](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1901.cpp)       | Remove All Occurrences of a Substring| O(n*m) | O(1)|
 
