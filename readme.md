@@ -22,6 +22,7 @@
 | 17 | [Binary Search](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Binary_Search.cpp) | O(logn) | O(logn)|
 | 18 | [Reverse string](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Reverse_string.cpp) | O(n) | O(1)|
 | 19 | [check if Binary Palindrome](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Binary_palindrome.cpp) | O(logN) | O(logN)|
+| 20 | [Merge Sort](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Merge_sort.cpp) | O(n log n) | O(n)|
 
 ## Leet Code
 
