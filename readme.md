@@ -20,6 +20,8 @@
 | 15 | [Print Like a Wave](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Print_like_wave.cpp) | O(mCols * nRows)| O(mCols * nRows)|
 | 16 | [Check if Palindrome](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/check_if_palindrome.cpp) | O(n) | O(1)|
 | 17 | [Binary Search](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Binary_Search.cpp) | O(logn) | O(logn)|
+| 18 | [Reverse string](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Reverse_string.cpp) | O(n) | O(1)|
+| 19 | [check if Binary Palindrome](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Binary_palindrome.cpp) | O(logN) | O(logN)|
 
 ## Leet Code
 
