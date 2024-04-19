@@ -37,26 +37,28 @@
 | 7    | [33](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-33.cpp)       | search in sorted an rotated array | O(log n) | O(1)|
 | 8    | [48](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-48.cpp)       | Rotate 90 degree | O(n^2) | O(1) |
 | 9    | [54](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-54.cpp)       | Spiral Matrix | O(m*n) |O(m*n)|
-| 10    | [74](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-74.cpp)       | Search in 2D Matrix 1 |O(log(m*n)) | O(1) |
+| 10    | [66](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-66.cpp)       | Plus One | O(n) |O(1)|
+| 11    | [74](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-74.cpp)       | Search in 2D Matrix 1 |O(log(m*n)) | O(1) |
 | 12    | [88](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-88.cpp)       | Merge Sorted Array | O(n+m) | O(1)|
-| 11    | [125](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-125.cpp)       | Valid Palindrome | O(n) | O(1)|
-| 12    | [186](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-186.cpp)       | Reverse Words in String  |O(n) | O(1)|
-| 13    | [189](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-189.cpp)       | Rotated Array | O(n) | O(1)|
-| 14    | [191](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-191.cpp)       | Number Of Bits | O(log n) | O(1) |
-| 15    | [231](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-231.cpp)       | Power Of Two | O(log n) | O(1)|
-| 16    | [240](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-240.cpp)       | Search In 2D Matrix 2 | O(m+n) | O(1) |
-| 17    | [283](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-283.cpp)       | Move Zeros | O(n) | O(1)|
-| 18    | [344](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-344.cpp)       | Reverse A String | O(n) | O(1)
-| 19    | [442](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-442.cpp)       | Find all duplicates |O(n) | O(1)|
-| 20   | [443](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-443.cpp)       | String Compression | O(n) | O(1) |
-| 21   | [509](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-509.cpp)       | Fibonacci Number | O(1.618^n) | O(n) |
-| 22   | [567](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-567.cpp)       | Permutation in a String | O(n) | O(1)|
-| 23   | [724](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-724.cpp)       | Find Pivot Index | O(n) | O(1)|
-| 24   | [852](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-852.cpp)       | Peak index in a mountain | O(log n) | O(1)|
-| 25    | [1009](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1009.cpp)       | Compliment Of Base 10 | O(logN) | O(logN)|
-| 26    | [1047](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1047.cpp)       | Remove all adjacent Duplicate | O(n) | O(n)|
-| 27    | [1207](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1207.cpp)       |  Unique Number Of Occurrences | O(n + m log m) | O(m) |
-| 28    | [1281](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1281.cpp)       | Subtract The Product And Sum Of Digit an Integer | O(log10(num)) | O(1)|
-| 29    | [1752](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1752.cpp)       | Check if Sorted and Rotated array | O(n) | O(1)
-| 30    | [1901](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1901.cpp)       | Remove All Occurrences of a Substring| O(n*m) | O(1)|
+| 14    | [121](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-121.cpp)       | Best Time to buy and sell stocks | O(n) | O(1)|
+| 15    | [125](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-125.cpp)       | Valid Palindrome | O(n) | O(1)|
+| 16    | [186](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-186.cpp)       | Reverse Words in String  |O(n) | O(1)|
+| 17    | [189](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-189.cpp)       | Rotated Array | O(n) | O(1)|
+| 18    | [191](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-191.cpp)       | Number Of Bits | O(log n) | O(1) |
+| 19    | [231](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-231.cpp)       | Power Of Two | O(log n) | O(1)|
+| 20    | [240](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-240.cpp)       | Search In 2D Matrix 2 | O(m+n) | O(1) |
+| 21    | [283](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-283.cpp)       | Move Zeros | O(n) | O(1)|
+| 22    | [344](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-344.cpp)       | Reverse A String | O(n) | O(1)
+| 23    | [442](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-442.cpp)       | Find all duplicates |O(n) | O(1)|
+| 24   | [443](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-443.cpp)       | String Compression | O(n) | O(1) |
+| 25   | [509](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-509.cpp)       | Fibonacci Number | O(1.618^n) | O(n) |
+| 26   | [567](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-567.cpp)       | Permutation in a String | O(n) | O(1)|
+| 27   | [724](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-724.cpp)       | Find Pivot Index | O(n) | O(1)|
+| 28   | [852](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-852.cpp)       | Peak index in a mountain | O(log n) | O(1)|
+| 29    | [1009](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1009.cpp)       | Compliment Of Base 10 | O(logN) | O(logN)|
+| 30    | [1047](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1047.cpp)       | Remove all adjacent Duplicate | O(n) | O(n)|
+| 31    | [1207](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1207.cpp)       |  Unique Number Of Occurrences | O(n + m log m) | O(m) |
+| 32    | [1281](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1281.cpp)       | Subtract The Product And Sum Of Digit an Integer | O(log10(num)) | O(1)|
+| 33    | [1752](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1752.cpp)       | Check if Sorted and Rotated array | O(n) | O(1)
+| 34    | [1901](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-1901.cpp)       | Remove All Occurrences of a Substring| O(n*m) | O(1)|
 
