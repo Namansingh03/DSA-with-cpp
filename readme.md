@@ -38,6 +38,7 @@
 | -    | [26](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-26.cpp)       | remove duplicate | O(n) |O(1)
 | -    | [27](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-27.cpp)       | remove element | O(n)| O(1)|
 | -    | [33](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-33.cpp)       | search in sorted an rotated array | O(log n) | O(1)|
+| -    | [46](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-46.cpp)       | Permutation | O(n!)  | O(n!) |
 | -    | [48](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-48.cpp)       | Rotate 90 degree | O(n^2) | O(1) |
 | -    | [54](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-54.cpp)       | Spiral Matrix | O(m*n) |O(m*n)|
 | -    | [66](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-66.cpp)       | Plus One | O(n) |O(1)|
