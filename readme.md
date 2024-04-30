@@ -25,6 +25,8 @@
 | 20 | [Merge Sort](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Merge_sort.cpp) | O(n log n) | O(n)|
 | 21 | [Quick Sort](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Quick_sort.cpp) | O(n log n) | O(n)|
 | 22 | [Subsequences of string](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Subsequences_of_string.cpp) | O(2^n) | O(2^n)|
+| 23 | [Reversed Linked List](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Reversed_linked_list.cpp) | O(n) | O(1)|
+| 24 | [Middle of Linked List](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Middle_linked_list.cpp) | O(n/2) | O(1)|
 
 ## Leet Code
 
