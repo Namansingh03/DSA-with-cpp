@@ -29,6 +29,9 @@
 | 24 | [Middle of Linked List](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Middle_linked_list.cpp) | O(n/2) | O(1)|
 | 25 | [Reversed K groups](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Reversed_K_groups.cpp) | O(n*k) | O(1)|
 | 26 | [Circularly linked](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Circularly_liked.cpp) | O(n) | O(1)|
+| 27 | [remove loop](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Detect_remove_loop.cpp) | O(n) | O(1)|
+| 28 | [remove duplicate in sorted list](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Remove_sorted_list.cpp) | O(n) | O(1)|
+| 29 | [remove duplicate in unsorted list](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Remove_unsorted_list.cpp) | O(n) | O(n)|
 
 ## Leet Code
 
