@@ -32,6 +32,8 @@
 | 27 | [remove loop](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Detect_remove_loop.cpp) | O(n) | O(1)|
 | 28 | [remove duplicate in sorted list](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Remove_sorted_list.cpp) | O(n) | O(1)|
 | 29 | [remove duplicate in unsorted list](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Remove_unsorted_list.cpp) | O(n) | O(n)|
+| 30 | [Sort 0s 1s 2s](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Sort_0s_1s_2s.cpp) | O(n) | O(1)|
+| 30 | [Merge two sorted list](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Merge_two_sorted_list.cpp) | O(n) | O(1)|
 
 ## Leet Code
 
