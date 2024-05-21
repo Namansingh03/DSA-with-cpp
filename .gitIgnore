@@ -2,4 +2,6 @@
 
 //! ignore compiled files
 *.exe
+*.json
 
+.vscode

@@ -37,6 +37,10 @@
 | 31 | [Merge sort in linked list](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/MergeSort_linked_list.cpp) | O(n log n) | O(n)|
 | 32 | [Flatten a linked list](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Flatten_list.cpp) | O(N*N*M) | O(N*M)|
 | 33 | [Two stack](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Two-stack.cpp) | O(1) | O(s)|
+| 34 | [Delete middle element in a stack](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Delete_middle_element(stack).cpp) | O(n) | O(n)|
+| 35 | [Valid parentheses](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Valid_parentheses.cpp) | O(n) | O(n)|
+| 36 | [Insert at bottom](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Insert_at_bottom.cpp) | O(n) | O(n)|
+| 37 | [Reverse stack with recursion](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Reverse_stack_recursion.cpp) | O(n) | O(n)|
 
 ## Leet Code
 
