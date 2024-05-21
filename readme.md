@@ -40,7 +40,7 @@
 | 34 | [Delete middle element in a stack](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Delete_middle_element(stack).cpp) | O(n) | O(n)|
 | 35 | [Valid parentheses](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Valid_parentheses.cpp) | O(n) | O(n)|
 | 36 | [Insert at bottom](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Insert_at_bottom.cpp) | O(n) | O(n)|
-| 37 | [Reverse stack with recursion](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Reverse_stack_recursion.cpp) | O(n) | O(n)|
+| 37 | [Reverse stack with recursion](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Reverse_stack_recursion.cpp) | O(n^n) | O(n)|
 
 ## Leet Code
 
