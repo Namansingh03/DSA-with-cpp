@@ -5,42 +5,45 @@
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------- |
 | 1 | [Duplicate in array](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Duplicate_in_array.cpp) | O(n) | O(1) |
 | 2 | [Find Unique](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Find_Unique.cpp) | O(n) | O(1) |
-| 3 | [Find Last Element Position](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/First-Last-Position-Element.cpp) | 
-| 4 | [Painter's Problem](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Painter's_problem.cpp) | O(N logN) | O(1) | 
-| 5 | [Search In Rotated Array](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Search-In-Rotated-Sorted-Array.cpp) | O(log n) | O(1) |
-| 6 | [Square Root Of Number](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Search-In-Rotated-Sorted-Array.cpp) | O(log n) | O(1) |
-| 7 | [Aggressive Cow](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/aggressive_cows.cpp) | O(n log n) | O(1) |
-| 8 | [Book Allocation](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/books_allocation.cpp) |O(n log m) | O(1) |
-| 9 | [Sort 0 1 2](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/sort-0-1-2.cpp) | O(n) | O(1) |
-| 10 | [Pair Sum](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/pair-sum.cpp) | O(n^2) | O(n^2) |
-| 11 | [Triplet sum](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/3Sum.cpp) | O(n log n) | O(n) to O(n^3)|
-| 12 | [bubble sort](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/bubble_sort.cpp) | O(n^2) | O(1)|
-| 13 | [insertion sort](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/insertion_sort.cpp) | O(n^2) | O(1) |
-| 14 | [selection sort](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/selection_sort.cpp) | O(n^2) | O(1) |
-| 15 | [Print Like a Wave](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Print_like_wave.cpp) | O(mCols * nRows)| O(mCols * nRows)|
-| 16 | [Check if Palindrome](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/check_if_palindrome.cpp) | O(n) | O(1)|
-| 17 | [Binary Search](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Binary_Search.cpp) | O(logn) | O(logn)|
-| 18 | [Reverse string](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Reverse_string.cpp) | O(n) | O(1)|
-| 19 | [check if Binary Palindrome](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Binary_palindrome.cpp) | O(logN) | O(logN)|
-| 20 | [Merge Sort](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Merge_sort.cpp) | O(n log n) | O(n)|
-| 21 | [Quick Sort](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Quick_sort.cpp) | O(n log n) | O(n)|
-| 22 | [Subsequences of string](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Subsequences_of_string.cpp) | O(2^n) | O(2^n)|
-| 23 | [Reversed Linked List](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Reversed_linked_list.cpp) | O(n) | O(1)|
-| 24 | [Middle of Linked List](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Middle_linked_list.cpp) | O(n/2) | O(1)|
-| 25 | [Reversed K groups](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Reversed_K_groups.cpp) | O(n*k) | O(1)|
-| 26 | [Circularly linked](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Circularly_liked.cpp) | O(n) | O(1)|
-| 27 | [remove loop](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Detect_remove_loop.cpp) | O(n) | O(1)|
-| 28 | [remove duplicate in sorted list](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Remove_sorted_list.cpp) | O(n) | O(1)|
-| 29 | [remove duplicate in unsorted list](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Remove_unsorted_list.cpp) | O(n) | O(n)|
-| 30 | [Sort 0s 1s 2s](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Sort_0s_1s_2s.cpp) | O(n) | O(1)|
-| 30 | [Merge two sorted list](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Merge_two_sorted_list.cpp) | O(n) | O(1)|
-| 31 | [Merge sort in linked list](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/MergeSort_linked_list.cpp) | O(n log n) | O(n)|
-| 32 | [Flatten a linked list](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Flatten_list.cpp) | O(N*N*M) | O(N*M)|
-| 33 | [Two stack](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Two-stack.cpp) | O(1) | O(s)|
-| 34 | [Delete middle element in a stack](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Delete_middle_element(stack).cpp) | O(n) | O(n)|
-| 35 | [Valid parentheses](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Valid_parentheses.cpp) | O(n) | O(n)|
-| 36 | [Insert at bottom](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Insert_at_bottom.cpp) | O(n) | O(n)|
-| 37 | [Reverse stack with recursion](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Reverse_stack_recursion.cpp) | O(n^n) | O(n)|
+| 5 | [Painter's Problem](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Painter's_problem.cpp) | O(N logN) | O(1) | 
+| 6 | [Search In Rotated Array](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Search-In-Rotated-Sorted-Array.cpp) | O(log n) | O(1) |
+| 7 | [Square Root Of Number](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Search-In-Rotated-Sorted-Array.cpp) | O(log n) | O(1) |
+| 8 | [Aggressive Cow](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/aggressive_cows.cpp) | O(n log n) | O(1) |
+| 9 | [Book Allocation](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/books_allocation.cpp) |O(n log m) | O(1) |
+| 10 | [Sort 0 1 2](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/sort-0-1-2.cpp) | O(n) | O(1) |
+| 11 | [Pair Sum](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/pair-sum.cpp) | O(n^2) | O(n^2) |
+| 12 | [Triplet sum](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/3Sum.cpp) | O(n log n) | O(n) to O(n^3)|
+| 13 | [bubble sort](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/bubble_sort.cpp) | O(n^2) | O(1)|
+| 14 | [insertion sort](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/insertion_sort.cpp) | O(n^2) | O(1) |
+| 15 | [selection sort](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/selection_sort.cpp) | O(n^2) | O(1) |
+| 16 | [Print Like a Wave](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Print_like_wave.cpp) | O(mCols * nRows)| O(mCols * nRows)|
+| 17 | [Check if Palindrome](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/check_if_palindrome.cpp) | O(n) | O(1)|
+| 18 | [Binary Search](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Binary_Search.cpp) | O(logn) | O(logn)|
+| 19 | [Reverse string](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Reverse_string.cpp) | O(n) | O(1)|
+| 20 | [check if Binary Palindrome](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Binary_palindrome.cpp) | O(logN) | O(logN)|
+| 21 | [Merge Sort](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Merge_sort.cpp) | O(n log n) | O(n)|
+| 22 | [Quick Sort](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Quick_sort.cpp) | O(n log n) | O(n)|
+| 23 | [Subsequences of string](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Subsequences_of_string.cpp) | O(2^n) | O(2^n)|
+| 24 | [Reversed Linked List](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Reversed_linked_list.cpp) | O(n) | O(1)|
+| 25 | [Middle of Linked List](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Middle_linked_list.cpp) | O(n/2) | O(1)|
+| 26 | [Reversed K groups](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Reversed_K_groups.cpp) | O(n*k) | O(1)|
+| 27 | [Circularly linked](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Circularly_liked.cpp) | O(n) | O(1)|
+| 28 | [remove loop](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Detect_remove_loop.cpp) | O(n) | O(1)|
+| 29 | [remove duplicate in sorted list](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Remove_sorted_list.cpp) | O(n) | O(1)|
+| 30 | [remove duplicate in unsorted list](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Remove_unsorted_list.cpp) | O(n) | O(n)|
+| 31 | [Sort 0s 1s 2s](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Sort_0s_1s_2s.cpp) | O(n) | O(1)|
+| 32 | [Merge two sorted list](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Merge_two_sorted_list.cpp) | O(n) | O(1)|
+| 33 | [Merge sort in linked list](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/MergeSort_linked_list.cpp) | O(n log n) | O(n)|
+| 34 | [Flatten a linked list](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Flatten_list.cpp) | O(N*N*M) | O(N*M)|
+| 35 | [Two stack](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Two-stack.cpp) | O(1) | O(s)|
+| 36 | [Delete middle element in a stack](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Delete_middle_element(stack).cpp) | O(n) | O(n)|
+| 37 | [Valid parentheses](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Valid_parentheses.cpp) | O(n) | O(n)|
+| 38 | [Insert at bottom](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Insert_at_bottom.cpp) | O(n) | O(n)|
+| 39 | [Reverse stack with recursion](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Reverse_stack_recursion.cpp) | O(n^2) | O(n)|
+| 40 | [Sort a stack](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Sort_a_stack.cpp) | O(n^2) | O(n)|
+| 41 | [Redunant Brackets](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Redunant_brackets.cpp) | O(n) | O(n)|
+| 42 | [Minimum cost to make string valid](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Redunant_brackets.cpp) | O(n) | O(n)|
+| 43 | [Next smallest element](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Next_smallest_element.cpp) | O(n) | O(n)|
 
 ## Leet Code
 
@@ -60,6 +63,7 @@
 | -    | [66](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-66.cpp)       | Plus One | O(n) |O(1)|
 | -    | [74](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-74.cpp)       | Search in 2D Matrix 1 |O(log(m*n)) | O(1) |
 | -    | [74](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-74.cpp)       | Subsets |O(2^n) | O(2^n) |
+| -    | [86](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-86.cpp)       | area of rectangle |O(n) | O(n) |
 | -    | [88](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-88.cpp)       | Merge Sorted Array | O(n+m) | O(1)|
 | -    | [121](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-121.cpp)       | Best Time to buy and sell stocks | O(n) | O(1)|
 | -    | [125](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-125.cpp)       | Valid Palindrome | O(n) | O(1)|

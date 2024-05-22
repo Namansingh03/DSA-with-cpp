@@ -3,5 +3,6 @@
 //! ignore compiled files
 *.exe
 *.json
+*.env
 
 .vscode
