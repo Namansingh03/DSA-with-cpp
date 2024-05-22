@@ -63,7 +63,7 @@
 | -    | [66](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-66.cpp)       | Plus One | O(n) |O(1)|
 | -    | [74](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-74.cpp)       | Search in 2D Matrix 1 |O(log(m*n)) | O(1) |
 | -    | [74](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-74.cpp)       | Subsets |O(2^n) | O(2^n) |
-| -    | [86](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-86.cpp)       | area of rectangle |O(n) | O(n) |
+| -    | [84](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-84.cpp)       | area of rectangle |O(n) | O(n) |
 | -    | [88](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-88.cpp)       | Merge Sorted Array | O(n+m) | O(1)|
 | -    | [121](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-121.cpp)       | Best Time to buy and sell stocks | O(n) | O(1)|
 | -    | [125](https://github.com/Namansingh03/DSA-with-cpp/blob/main/leetcode%20question/leetcode-125.cpp)       | Valid Palindrome | O(n) | O(1)|
