@@ -44,6 +44,8 @@
 | 41 | [Redunant Brackets](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Redunant_brackets.cpp) | O(n) | O(n)|
 | 42 | [Minimum cost to make string valid](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Redunant_brackets.cpp) | O(n) | O(n)|
 | 43 | [Next smallest element](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Next_smallest_element.cpp) | O(n) | O(n)|
+| 44 | [getmin in a stack](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/getmin_stack.cpp) | O(1) | O(n)|
+
 
 ## Leet Code
 
