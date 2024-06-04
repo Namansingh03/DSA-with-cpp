@@ -48,6 +48,8 @@
 | 45 | [Implement a Queue](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Implement_queue.cpp) | O(1) | O(n)|
 | 46 | [Circular Queue](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Circular_queue.cpp) | O(1) | O(n)|
 | 47 | [Doubly Queue](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Dqueue.cpp) | O(1) | O(n)|
+| 48 | [leaf in a binary tree](https://github.com/Namansingh03/DSA-with-cpp/blob/main/coding%20ninja%20question/Count_leaf_ode.cpp) | O(2^n) | O(n)|
+
 
 
 ## Leet Code
